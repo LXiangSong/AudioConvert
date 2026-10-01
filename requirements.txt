@@ -1,0 +1,9 @@
+PySide6-Essentials==6.11.2
+PyInstaller==6.22.3
+imageio-ffmpeg==0.6.0
+mutagen==1.48.1
+pycryptodome==3.23.0
+wasmtime==49.0.0
+Send2Trash==2.1.0
+pywin32==312
+Pillow==12.3.0
